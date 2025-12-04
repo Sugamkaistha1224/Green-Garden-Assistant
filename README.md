@@ -4,6 +4,9 @@ By Sugam Kaistha
 🌐 Portfolio: https://sugam-portfolio-cv.vercel.app/
 
 🌐 Kaistha Groups: https://kgs-kaisthagroups.vercel.app/
+                   
+🌐 Kaistha Groups: https://green-garden-azure.vercel.app/
+
 
 Project Info
 Smart Crop — an innovative digital solution for modern agriculture. This platform blends advanced technologies with real-time insights to help farmers and agritech stakeholders make smarter, data-driven decisions.
